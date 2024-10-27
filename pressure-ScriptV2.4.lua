@@ -42,7 +42,7 @@ if not success then
 end
 
 local GUIWindow = Library:CreateWindow({
-    Name = "Creepy Client V2.4",
+    Name = "支持原创我这个才是原创其他抄袭!!!",
     Themeable = false
 })
 
